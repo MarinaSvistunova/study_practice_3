@@ -10,6 +10,7 @@
 ### Выполненное задание 1.1. ИСР
 
 [ИСР 1.1 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-1.docx)
+
 [ИСР 1.1 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-1.pdf)
 
 ---
@@ -23,6 +24,7 @@
 ### Выполненное задание 1.2. ИСР
 
 [ИСР 1.2 (.jpg)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-2.jpg)
+
 [ИСР 1.2 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-2.pdf)
 
 ---
@@ -36,6 +38,7 @@
 ### Выполненное задание 1.3. ИСР
 
 [ИСР 1.3 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-3.docx)
+
 [ИСР 1.3 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-3.pdf)
 
 ---
@@ -49,6 +52,7 @@
 ### Выполненное задание 1.4. ИСР
 
 [ИСР 1.4 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-4.docx)
+
 [ИСР 1.4 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-4.pdf)
 
 ---
@@ -62,6 +66,7 @@
 ### Выполненное задание 1.5. ИСР
 
 [ИСР 1.5 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-5.docx)
+
 [ИСР 1.5 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-5.pdf)
 
 ---
@@ -75,6 +80,7 @@
 ### Выполненное задание 1.6. ИСР
 
 [ИСР 1.6 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-6.docx)
+
 [ИСР 1.6 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-6.pdf)
 
 ---
@@ -88,6 +94,7 @@
 ### Выполненное задание 1.7. ИСР
 
 [ИСР 1.7 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-7.docx)
+
 [ИСР 1.7 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-7.pdf)
 
 ---
@@ -101,6 +108,7 @@
 ### Выполненное задание 1.8. ИСР
 
 [ИСР 1.8 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-8.docx)
+
 [ИСР 1.8 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-8.pdf)
 
 ---
@@ -114,6 +122,7 @@
 ### Выполненное задание 1.9. ИСР
 
 [ИСР 1.9 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-9.docx)
+
 [ИСР 1.9 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-9.pdf)
 
 ---
@@ -127,6 +136,7 @@
 ### Выполненное задание 1.10. ИСР
 
 [ИСР 1.10 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-10.docx)
+
 [ИСР 1.10 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-10.pdf)
 
 ---
@@ -140,6 +150,7 @@
 ### Выполненное задание 1.11. ИСР
 
 [ИСР 1.11 (.jpg)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-11.jpg)
+
 [ИСР 1.11 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%98%D0%A1%D0%A0%2C%201-11.pdf)
 
 ---
@@ -153,6 +164,7 @@
 ### Выполненное задание 2.1. ВСР
 
 [ВСР 2.1 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-1.docx)
+
 [ВСР 2.1 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-1.pdf)
 
 ---
@@ -166,6 +178,7 @@
 ### Выполненное задание 2.2. ВСР
 
 [ВСР 2.2 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-2.docx)
+
 [ВСР 2.2 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-2.pdf)
 
 ---
@@ -179,6 +192,7 @@
 ### Выполненное задание 2.3. ВСР
 
 [ВСР 2.3 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-3.docx)
+
 [ВСР 2.3 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-3.pdf)
 
 ---
@@ -192,4 +206,5 @@
 ### Выполненное задание 2.4. ВСР
 
 [ВСР 2.4 (.docx)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-4.docx)
+
 [ВСР 2.4 (.pdf)](https://github.com/MarinaSvistunova/study_practice_3/blob/master/files/%D0%A1%D0%B2%D0%B8%D1%81%D1%82%D1%83%D0%BD%D0%BE%D0%B2%D0%B0%2C%203%D0%98%D0%92%D0%A2%2C%20%D0%92%D0%A1%D0%A0%2C%202-4.pdf)
