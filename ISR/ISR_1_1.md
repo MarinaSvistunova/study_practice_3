@@ -10,3 +10,5 @@
   Оформить согласно ГОСТу: [http://kodaktor.ru/ref.pdf](http://kodaktor.ru/ref.pdf).
 
 ### Выполненное задание 1.1. ИСР
+
+---
